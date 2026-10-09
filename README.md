@@ -15,4 +15,4 @@ Each lab is added here once it's finished.
 I only test systems I own or have written permission to test. Write-ups share methods and results; working prompts that would produce genuinely harmful content are redacted.
 
 ## About me
-I'm Iqra, an MS Data Science student researching LLM security and moving into AI security and red teaming. This repo is where my hands-on work lives. I also share what I'm learning on [LinkedIn](https://www.linkedin.com/in/iqraaghafoor/) and [X](https://x.com/Iqra_Ghafoor_)
+I'm Iqra, an MS Data Science student researching LLM security and building a career in AI security and red teaming. This repo is where my hands-on work lives. I also share what I'm learning on [LinkedIn](https://www.linkedin.com/in/iqraaghafoor/) and [X](https://x.com/Iqra_Ghafoor_)
