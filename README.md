@@ -3,9 +3,9 @@
 AI security & red teaming: hands-on attack and defense labs for LLM apps, agents, RAG and ML models.
 
 ## Roadmap
-- [ ] **Phase 1 – Prompt injection, jailbreaks, defenses, evaluation** · Gate: prompt-injection test lab
-- [ ] **Phase 2 – Agents, RAG and web security** · Gate: red-team report on an agent or RAG app I built
-- [ ] **Phase 3 – Model-level attacks and the ML supply chain** · Gate: one paper reproduced end to end
+- [ ] **Phase 1 – Prompt injection, jailbreaks, defenses, evaluation** · Milestone: prompt-injection test lab
+- [ ] **Phase 2 – Agents, RAG and web security** · Milestone: red-team report on an agent or RAG app I built
+- [ ] **Phase 3 – Model-level attacks and the ML supply chain** · Milestone: one paper reproduced end to end
 - [ ] **Phase 4 – Professional practice and the bridge to cybersecurity**
 
 ## Labs
